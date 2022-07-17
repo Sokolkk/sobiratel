@@ -1,0 +1,9 @@
+{
+  "name": "Собиратель Кликер",
+  "version": "1.0.0",
+  "app": {
+    "background": {
+      "scripts": ["chrome-app-host.js"]
+    }
+  }
+}
